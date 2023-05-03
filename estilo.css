@@ -1,0 +1,48 @@
+.custom-body{
+    background-color: #a5d6a7;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.color-parrafo{
+    color: #7d7aa4;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30 px;
+}
+
+li{
+    text-align: start;
+    width: 35%;
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 5px 35px;
+    background-color: white;
+    border: 1px solid rgb(227, 227, 228);
+    border-radius: 15px;
+    
+
+}
+.card-verduleria{
+    background-color: #f7f7fc;
+    width: 280px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    padding: 10px 15px 25px;
+    font-family: Mulish;
+    margin-top: 150px;
+}
+.grosor-menor{
+    font-weight: 200;
+
+}
+.grosor-mayor{
+    font-weight: 500;
+
+}
